@@ -1,0 +1,2 @@
+Productname: rice, Price: 1000
+Productname: beans, Price: 2000
