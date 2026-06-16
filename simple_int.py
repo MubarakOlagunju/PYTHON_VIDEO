@@ -7,3 +7,5 @@ time = int(input("Input time: "))
 simple_interest = (principal * rate * time)/100
 
 print("The Simple interest for the period is: ", + simple_interest)
+
+print("Thanks for watching")
