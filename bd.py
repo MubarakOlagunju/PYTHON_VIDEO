@@ -1,1 +1,0 @@
-print("Hello World\nHappy Birthday to me")
